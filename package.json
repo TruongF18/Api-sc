@@ -1,0 +1,19 @@
+{
+  "name": "api-sc",
+  "version": "1.0.0",
+  "description": "API Schema",
+  "title": "API Schema",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
